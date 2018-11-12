@@ -29,30 +29,30 @@
 * 첫세팅에서는 조금 오래 걸릴수도 있다.  
 ![demo](/demo/pic13.png)   
 * 파이프라인을 선택해 들어가면 진행중인 과정들을 한눈에 볼수도 있다. 
-![demo](/demo/pic14.PNG)   
+![demo](/demo/pic14.png)   
 * 1~2분까지 기다리다보면 데시보드가 생기기 시작한다. 
-![demo](/demo/pic16.PNG)   
+![demo](/demo/pic16.png)   
 * 어플리케이션 엔드포인트가 나온다면 해당 엔드포인트를 선택해서 기본 설정으로 배포된 웹 어플리케이션을 확인할수있다. 
-![demo](/demo/pic17.PNG)   
+![demo](/demo/pic17.png)   
 * 1~2분기다려도 완성이되지 않는다면 새로고침 한번해주면 완성된것을 확인할수 있다.
-![demo](/demo/pic18.PNG)   
+![demo](/demo/pic18.png)   
 * 배포가 완료되지 않아도 엔드포인트는 생성되므로 어플리케이션이 나오지 않는다면 배포가 완료됬는지 확인한다. 
-![demo](/demo/pic15.PNG)   
+![demo](/demo/pic16.png)   
 * 배포가 되는것을 잠시 기다리는 동안 주의 사항을 살펴본다. 
 * 켜두었던 EC2 키페어 창에서 좌측 navbar 에서 인스턴스>인스턴스 로 이동한다. 
-![demo](/demo/pic19.PNG)   
+![demo](/demo/pic19.png)   
 * 인스턴스가 두개 생성되어있다. 이는 본인의 웹 어플리케이션과 cloud9 서버에 해당한다. 
 * 프리티어 ec2 가 두개로 사용한다면 과금이 될수있으니 데모이후 삭제하거나 서버가 한개가 켜져있는 상태에서 작업하는것을 권한다. 
-![demo](/demo/pic20.PNG)   
+![demo](/demo/pic20.png)   
 * 다시 codestar 대시보드로 와서 배포를 확인하면 '성공'이다.
-![demo](/demo/pic21.PNG)   
+![demo](/demo/pic21.png)   
 * 엔드포인트 주소로 들어가면 AWS에서 설정해둔 기본 Rails 템플릿이 나오는것을 확인할수 있다. 
-![demo](/demo/pic22.PNG)   
+![demo](/demo/pic22.png)   
 * 이제 코드 수정을 간단하게 하고 세션을 마무리 하겠다. 대시보드 우상단에서 코딩시작을 클릭하면  Cloud9이 켜진다. 
 * 본인의 Cloud9/IDE 세팅을 우선으로 하고 코드를 수정하면된다. 
-![demo](/demo/pic23.PNG)   
+![demo](/demo/pic23.png)   
 * 본인은 깃 기본 설정과 IDE 색상만 바꾸고 바로 진행 하겠다. 
-![demo](/demo/pic24.PNG)   
+![demo](/demo/pic24.png)   
 
 
 #### [중반부](demo2.md)
