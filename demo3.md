@@ -54,3 +54,6 @@
 #### [전반부](demo1.md)
 #### [중반부](demo2.md)
 #### [README](README.md)
+
+### 다운로드 링크
+<a href="https://drive.google.com/file/d/1HPKM1AsugT56hOquO3Q_0ovtypQqtPY_/view?usp=sharing" download>PDF Download</a>
